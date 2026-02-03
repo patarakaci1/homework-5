@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header ul li {
+    display: inline;
+    margin-right: 15px;
+}
+
+ header {
+    align-items: center;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 10px;
+    background-color: rgb(96, 179, 154);
+} 
+li a{
+    text-decoration: none;
+    color: black;
+}
+
+main{
+    text-align: center;
+}
+p,.foto1,.foto2{
+    margin-top: 20px;
+}
+
+
+.foto2 img {
+    width: 50%
+}
+p{
+    opacity: 0.5;
+}
